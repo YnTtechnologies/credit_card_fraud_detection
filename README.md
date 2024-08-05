@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection: A Hands-On Project
+# Credit Card Fraud Detection
 
 ![image](https://user-images.githubusercontent.com/88694623/236975512-6c75d83a-3e45-43b7-a5dd-e0691a7ff5ee.png)
 
