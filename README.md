@@ -1,7 +1,5 @@
 # Credit Card Fraud Detection: A Hands-On Project
 
-#### 🧑‍🏫 Author: [Nhi Yen](https://www.linkedin.com/in/yennhi95zz/)
-#### 💡I write about Machine Learning on [Medium](https://medium.com/@yennhi95zz) || [Github](https://github.com/yennhi95zz) || [Kaggle](https://www.kaggle.com/nhiyen/code) || [Linkedin](https://www.linkedin.com/in/yennhi95zz/). If you found this article interesting, your support by giving me ⭐ will help me spread the knowledge to others.
 ![image](https://user-images.githubusercontent.com/88694623/236975512-6c75d83a-3e45-43b7-a5dd-e0691a7ff5ee.png)
 
 This project aims to create a model to detect fraudulent transactions in credit card transactions.
@@ -62,12 +60,3 @@ python main.py
 
 ### 2. Naive Bayes
 - Fit a Naive Bayes Model
-
-## References
-- Kaggle Dataset: [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-- Github Repo - [HERE](https://github.com/yennhi95zz/credit-card-fraud-detection-a-hands-on-project)
-- Kaggle Project - [HERE](https://www.kaggle.com/nhiyen/credit-card-fraud-detection-a-hands-on-project)
-- Detail Explanation about the code on [MEDIUM](https://medium.com/@yennhi95zz/credit-card-fraud-detection-a-hands-on-project-760cad61b1da)
-
-## License
-This project is licensed under the MIT License.
